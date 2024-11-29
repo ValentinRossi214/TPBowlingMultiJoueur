@@ -1,7 +1,5 @@
 package bowling;
 
-import java.util.ArrayList;
-
 public class PartieMultiJoueurs implements  IPartieMultiJoueurs {
 	private PartieMonoJoueur[] parties;
 	private int joueurCourant;
